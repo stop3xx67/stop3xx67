@@ -16,6 +16,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stop3xx67)
 [![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 
+## 📊 Статистика GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stop3xx67&layout=compact&langs_count=5&bg_color=282a3a&title_color=C792D6&text_color=B8C0D9&border_color=AAB0C3" alt="Языки программирования" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=stop3xx67&show_icons=true&bg_color=282a3a&title_color=C792D6&text_color=B8C0D9&icon_color=7DD3FC&border_color=AAB0C3" alt="Статистика GitHub" />
+</p>
+
 ## 🎯 Цель
 
 Развиваться в ML Engineering, создавать эффективные ML-системы и разрабатывать полезные AI-продукты.

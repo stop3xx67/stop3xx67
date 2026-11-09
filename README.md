@@ -23,4 +23,4 @@ I work with tabular data in Python, train and evaluate models with scikit-learn,
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/%D0%B5%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9-%D0%BC%D0%B0%D0%BB%D1%8B%D1%88%D0%B5%D0%B2-b086b1447/) · [Telegram](https://t.me/iamstop3xx) · [Email](mailto:malysh6776@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/evgenii-malyshev-b086b1447/) · [Telegram](https://t.me/iamstop3xx) · [Email](mailto:malysh6776@gmail.com)

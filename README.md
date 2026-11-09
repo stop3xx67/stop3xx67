@@ -1,6 +1,7 @@
 # Евгений Малышев / Evgenii Malyshev
 
-**Junior ML Engineer** · Суботица, Сербия / Subotica, Serbia · Remote
+**Junior ML Engineer** · 19 лет / 19 years old  
+Суботица, Сербия / Subotica, Serbia · Remote
 
 ![Данные, дерево решений и сервис предсказаний](./ml-banner.png)
 

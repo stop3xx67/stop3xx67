@@ -1,47 +1,31 @@
-# Привет! 👋
+# Евгений Малышев / Evgenii Malyshev
 
-Меня зовут **Евгений**, мне **19 лет**. Живу в **Суботице, Сербия 🇷🇸**.
+**Junior ML Engineer** · Суботица, Сербия / Subotica, Serbia · Remote
 
-Начинающий **ML Engineer | Python Developer**.
+[Русский](#русский) · [English](#english)
 
-Изучаю машинное обучение, анализ данных и разработку на Python. Интересуюсь устройством ML-алгоритмов и созданием собственных AI-продуктов.
+## Русский
 
-**Максимально мотивирован на профессиональный рост.** Готов интенсивно учиться, много работать, постоянно совершенствовать свои навыки и прикладывать максимум усилий для достижения конкретных результатов. Не боюсь сложных задач и стремлюсь постоянно выходить за пределы своих текущих знаний.
+Работаю с табличными данными на Python, обучаю и оцениваю модели в scikit-learn и пишу REST API для предсказаний на FastAPI. Практикую обучение нейросетей в PyTorch. Ищу первую удалённую позицию ML-инженера.
 
-## 🛠️ Технологический стек
+- **Python и SQL** — ООП, PostgreSQL, JOIN, агрегации, CTE и оконные функции.
+- **Анализ данных** — pandas, NumPy, EDA, обработка пропусков, группировки, объединение таблиц и создание признаков.
+- **Классический ML** — scikit-learn, линейная и логистическая регрессия, деревья решений, Random Forest, Pipeline и ColumnTransformer.
+- **Оценка моделей** — временное разбиение, MAE, RMSE, R², precision, recall, F1, ROC-AUC и PR-AUC. Анализ ошибок и проверка утечек данных.
+- **PyTorch** — тензоры, autograd, Dataset, DataLoader, torch.nn и циклы обучения на учебных задачах.
+- **Разработка** — FastAPI, Pydantic, joblib, Docker, Docker Compose, Git и GitHub.
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+## English
 
-[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+I work with tabular data in Python, train and evaluate models with scikit-learn, and build REST inference APIs with FastAPI. I practice neural network training in PyTorch and am looking for my first remote ML engineering role.
 
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)](https://docs.pydantic.dev/)
-[![Uvicorn](https://img.shields.io/badge/Uvicorn-4051B5?style=for-the-badge&logo=uvicorn&logoColor=white)](https://www.uvicorn.org/)
+- **Python and SQL** — object-oriented programming, PostgreSQL, joins, aggregations, CTEs, and window functions.
+- **Data analysis** — pandas, NumPy, EDA, missing values, grouping, joins, and feature engineering.
+- **Classical ML** — scikit-learn, linear and logistic regression, decision trees, Random Forest, Pipeline, and ColumnTransformer.
+- **Model evaluation** — chronological splits, MAE, RMSE, R², precision, recall, F1, ROC-AUC, and PR-AUC. Error analysis and data leakage checks.
+- **PyTorch** — tensors, autograd, Dataset, DataLoader, torch.nn, and training loops in practice exercises.
+- **Development** — FastAPI, Pydantic, joblib, Docker, Docker Compose, Git, and GitHub.
 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stop3xx67)
+## Контакты / Contact
 
-## 📊 Статистика GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stop3xx67&layout=compact&langs_count=5&bg_color=282a3a&title_color=C792D6&text_color=B8C0D9&border_color=AAB0C3" alt="Языки программирования" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=stop3xx67&show_icons=true&bg_color=282a3a&title_color=C792D6&text_color=B8C0D9&icon_color=7DD3FC&border_color=AAB0C3" alt="Статистика GitHub" />
-</p>
-
-## 🎯 Цель
-
-Стать сильным ML Engineer, разрабатывать эффективные ML-системы и создавать собственные AI-продукты, решающие реальные задачи.
-
-## 📬 Контакты
-
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iamstop3xx)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malysh6776@gmail.com)
-
-**Telegram:** [@iamstop3xx](https://t.me/iamstop3xx)
-
-**Email:** [malysh6776@gmail.com](mailto:malysh6776@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/%D0%B5%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9-%D0%BC%D0%B0%D0%BB%D1%8B%D1%88%D0%B5%D0%B2-b086b1447/) · [Telegram](https://t.me/iamstop3xx) · [Email](mailto:malysh6776@gmail.com)

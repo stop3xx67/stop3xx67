@@ -2,6 +2,10 @@
 
 **Junior ML Engineer** · Суботица, Сербия / Subotica, Serbia · Remote
 
+![Данные, дерево решений и сервис предсказаний](./ml-banner.png)
+
+![Python](https://img.shields.io/badge/Python-12293D?style=flat-square&logo=python&logoColor=68C9F2) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-12293D?style=flat-square&logo=postgresql&logoColor=87BDE9) ![scikit-learn](https://img.shields.io/badge/scikit--learn-12293D?style=flat-square&logo=scikitlearn&logoColor=F9AC5A) ![PyTorch](https://img.shields.io/badge/PyTorch-12293D?style=flat-square&logo=pytorch&logoColor=FF8C71) ![FastAPI](https://img.shields.io/badge/FastAPI-12293D?style=flat-square&logo=fastapi&logoColor=56E2BE) ![Docker](https://img.shields.io/badge/Docker-12293D?style=flat-square&logo=docker&logoColor=73C3F3)
+
 [Русский](#русский) · [English](#english)
 
 ## Русский

@@ -11,7 +11,7 @@
 
 ## Русский
 
-Работаю с табличными данными на Python, обучаю и оцениваю модели в scikit-learn и пишу REST API для предсказаний на FastAPI. Практикую обучение нейросетей в PyTorch. Ищу первую удалённую позицию ML-инженера. Очень мотивирован интенсивно учиться и совершенствовать свои навыки. Сейчас могу уделять много времени практике, экспериментам и разбору ошибок, чтобы расти как ML-инженер и строить карьеру в этой области.
+Работаю с табличными данными на Python, обучаю и оцениваю модели в scikit-learn и пишу REST API для предсказаний на FastAPI. Практикую обучение нейросетей в PyTorch. Ищу первую удалённую позицию ML-инженера. Готов самостоятельно доводить ML-проекты до продакшена, включая подготовку данных, обучение и развёртывание модели. Очень мотивирован интенсивно учиться и совершенствовать свои навыки. Сейчас могу уделять много времени практике, экспериментам и разбору ошибок, чтобы расти как ML-инженер и строить карьеру в этой области.
 
 - **Python и SQL** — ООП, PostgreSQL, JOIN, агрегации, CTE и оконные функции.
 - **Анализ данных** — pandas, NumPy, EDA, обработка пропусков, группировки, объединение таблиц и создание признаков.
@@ -22,7 +22,7 @@
 
 ## English
 
-I work with tabular data in Python, train and evaluate models with scikit-learn, and build REST inference APIs with FastAPI. I practice neural network training in PyTorch and am looking for my first remote ML engineering role. I’m highly motivated to learn quickly and keep improving my skills. I can devote substantial time to hands-on practice, experimentation, and learning from mistakes as I build a long-term career in machine learning.
+I work with tabular data in Python, train and evaluate models with scikit-learn, and build REST inference APIs with FastAPI. I practice neural network training in PyTorch and am looking for my first remote ML engineering role. I’m ready to take ownership of ML projects from data preparation and model training through production deployment. I’m highly motivated to learn quickly and keep improving my skills. I can devote substantial time to hands-on practice, experimentation, and learning from mistakes as I build a long-term career in machine learning.
 
 - **Python and SQL** — object-oriented programming, PostgreSQL, joins, aggregations, CTEs, and window functions.
 - **Data analysis** — pandas, NumPy, EDA, missing values, grouping, joins, and feature engineering.
